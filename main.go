@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Outerwolf/bookstore_users-api/app"
+	"github.com/Outerwolf/bookstore_items-api/app"
 )
 
 func main() {
